@@ -1,0 +1,6 @@
+TypeStrike - Keyboard Speed Test
+Typing Test Completed
+Words Per Minute : 68
+Accuracy         : 96%
+Errors           : 3
+Time             : 60 seconds
